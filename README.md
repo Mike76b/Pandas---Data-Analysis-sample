@@ -1,5 +1,5 @@
 # Pandas---Data-Analysis-sample
-Pandas for Data Analysis // Análisis de datos con Pandas
+Pandas for Data Analysis. // Análisis de datos con Pandas.
 
 (EN) 
 
