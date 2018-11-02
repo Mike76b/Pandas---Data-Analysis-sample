@@ -1,5 +1,11 @@
 # Pandas---Data-Analysis-sample
-Pandas for Data Analysis. // Análisis de datos con Pandas.
+NOTE :  If you have issues to see the notebook:
+
+  copy this link  https://github.com/Mike76b/Pandas---Data-Analysis-sample/blob/master/Pandas%20-%20Data%20Analysis%20sample.ipynb 
+  
+  in this website  https://nbviewer.jupyter.org/
+  
+### Pandas for Data Analysis. // Análisis de datos con Pandas.
 
 (EN) 
 
