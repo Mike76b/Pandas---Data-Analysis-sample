@@ -3,7 +3,7 @@ NOTE :  If you have issues to see the notebook:
 
   copy this link  https://github.com/Mike76b/Pandas---Data-Analysis-sample/blob/master/Pandas%20-%20Data%20Analysis%20sample.ipynb 
   
-  in this website  https://nbviewer.jupyter.org/
+  and paste it in this website  https://nbviewer.jupyter.org/
   
 ### Pandas for Data Analysis. // Análisis de datos con Pandas.
 
@@ -22,6 +22,12 @@ Python 3: https://www.python.org/downloads/
 files: https://www.kaggle.com/usdot/flight-delays
 
 (ES) 
+
+NOTA :  Si tiene problemas para ver el archivo .ipynb:
+
+  copie el siguiente enlace  https://github.com/Mike76b/Pandas---Data-Analysis-sample/blob/master/Pandas%20-%20Data%20Analysis%20sample.ipynb
+  
+  y péguelo en el siguiente sitio web  https://nbviewer.jupyter.org/
 
 Análisis de datos con Pandas. Contiene ejemplos simples de distintos procesos llevados a cabo durante el análisis de datos usando Pandas. Téngase en cuenta que la intención de este repositorio no es la de enseñar cuál es la mejor forma de hacer las cosas, solo muestra la forma en que yo lo hice. Espero que les sea útil de alguna manera.
 
