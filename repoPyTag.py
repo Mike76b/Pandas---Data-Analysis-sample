@@ -9,3 +9,4 @@ Este es un archivo temporal.
 This file was included to add the Python tag to the description
 of the repository.
 """
+print("Python tag")
