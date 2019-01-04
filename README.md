@@ -5,7 +5,7 @@ NOTE :  If you have issues to see the notebook:
   
   and paste it in this website  https://nbviewer.jupyter.org/
   
-### Pandas for Data Analysis. // Análisis de datos con Pandas.
+### Python code. Pandas for Data Analysis // Código Python. Análisis de datos con Pandas
 
 (EN) 
 
